@@ -1,7 +1,7 @@
 #write your code here
 
-def countdown (10)
-  until 10 == 0 
+def countdown (integer)
+  until integer == 0 
   puts "#{integer} SECOND (S)!"
   integer -= 1
   end
